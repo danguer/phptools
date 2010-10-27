@@ -1,0 +1,4 @@
+Some tools for PHP; some classes will extend Zend Framework classes so it 
+uses the naming conventions of Zend Framework:
+http://framework.zend.com/manual/en/coding-standard.naming-conventions.html
+
